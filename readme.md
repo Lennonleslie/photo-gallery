@@ -1,6 +1,8 @@
 # 图床的创建准备工作
 
-[GITHUB](https://github.com/Lennonleslie/photo-gallery)
+[GITHUB地址](https://github.com/Lennonleslie/photo-gallery)
+
+[作者主页](https://lennonleslie.github.io/MyHtml/)
 
 ## 创建库
 
