@@ -1,8 +1,6 @@
-也没什么看的！
-
-储存一些必要的图片。
-
 # 图床的创建准备工作
+
+[GITHUB](https://github.com/Lennonleslie/photo-gallery)
 
 ## 创建库
 
