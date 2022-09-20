@@ -50,6 +50,20 @@
 
 ![](readme\09.png)
 
+点击`push origin`就可以上传到GitHub了
+
+![](readme\10.png)
+
+## 调用图片
+
+在我们的库里面找到上传的图片，按照下图指示，就能够得到这个图片的网络路径。网址即为路径。
+
+![](readme\12.png)
+
+接着，我们就可以通过这种代码来实现我们的Markdown的图片调用了。
+
+![04.png](https://lennonleslie.github.io/photo-gallery/readme/01.gif)
+
 ## 添加其他库
 
 如果自己还有其他项目就在这个界面，点击add，进行添加新的库，自行尝试。
